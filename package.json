@@ -14,7 +14,15 @@
   "author": "Sarahi Esquivel <sarahiesquivel45@gmail.com>",
   "license": "MIT",
   "bin": {
-    "positive-msg": "./bin/global.js"
+    "positive-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siriweb/Positive-messages.git"
+  },
+  "bugs": {
+    "url": "https://github.com/siriweb/Positive-messages/issues"
+  },
+  "homepage": "https://github.com/siriweb/Positive-messages#readme"
 }

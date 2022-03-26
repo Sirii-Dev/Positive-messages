@@ -12,7 +12,7 @@
 '''
 
 #Contributing
-    If someone wants to add or improve something, I invite you to collaborate directly in this repository: random-msg
+    If someone wants to add or improve something, I invite you to collaborate directly in this repository: https://github.com/siriweb/Positive-messages
 
 #License
     positive-msg is released under the MIT License.
