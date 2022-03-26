@@ -1,0 +1,20 @@
+{
+  "name": "positive-messages",
+  "version": "1.0.0",
+  "description": "Mensajes positivos, aleatorios y con amor",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "npm",
+    "node"
+  ],
+  "author": "Sarahi Esquivel <sarahiesquivel45@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "positive-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
